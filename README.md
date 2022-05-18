@@ -1,9 +1,9 @@
-# WCAT
+# WCAT 🚀
 WCAT COMMANDS
 It is used to display or make a copy content of one or more files in the terminal.
 
 
-## Usage
+## Usage 📢
 To displays content of the file in the terminal 
 ```bash
 wcat.js filepath

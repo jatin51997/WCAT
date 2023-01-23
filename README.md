@@ -9,15 +9,15 @@
 
 ```
 > Clone the repo
-    >> git clone https://github.com/jatin51997/FileSystemOrganizer.git
+    >> git clone https://github.com/jatin51997/WCAT.git
 > Change the folder location to your source code Folder
-    >> cd FileSystemOrganizer
+    >> cd WCAT
 > Install the dependencies
     >> npm install
 > For setup 
     >> npm init -y
     >> npm link
-> Now, File System Organizer can run on your Local Machine.
+> Now, WCAT can run on your Local Machine.
 ```
 
 ## Use this Command 🤖
